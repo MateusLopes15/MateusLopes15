@@ -22,11 +22,16 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateusLopes15&show_icons=true&theme=radical&rank_icon=github&hide=issues" alt="Mateus Lopes GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLopes15&layout=compact&langs_count=8&theme=radical" alt="Top Langs"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MateusLopes15&show_icons=true&theme=radical&rank_icon=github&hide=issues" alt="Mateus Lopes GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLopes15&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 ## 💼 Projetos em destaque
 
