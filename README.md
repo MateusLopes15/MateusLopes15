@@ -6,9 +6,8 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 **Estudante de Engenharia da Computação** no [CEFET-MG](https://www.cefetmg.br/), atualmente no **4º semestre**
-- 🎒 **Ensino integrado** concluído no [IFBA](https://portal.ifba.edu.br/) em Técnico de TI
-- 🏳️‍🌈 **Pronomes:** ele/dele
+- 🎓 **Estudante de Engenharia da Computação** no [CEFET-MG](https://www.eng-computacao.timoteo.cefetmg.br), atualmente no **4º semestre**
+- 🎒 **Ensino integrado** concluído no [IFBA](https://portal.ifba.edu.br/eunapolis) em Técnico de TI
 - 💻 Apaixonado por programação, especialmente **Banco de Dados** e **Java**
 - ✨ Sempre buscando aprender e crescer na área de tecnologia!
 
@@ -36,9 +35,9 @@
 
 ## 🌐 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/mateuslopes15/)
+
 - [GitHub](https://github.com/MateusLopes15)
-- [E-mail](mailto:mateuslopes15@gmail.com)
+- [E-mail](mailto:mateus1215.02@gmail.com)
 
 ---
 
